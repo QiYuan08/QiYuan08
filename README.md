@@ -18,6 +18,6 @@ class Skills extends SoftwareDeveloper {
 }
 
 class ToLearn extends Skills {
-  frameworks = ['React']
+  frameworks = ['React', 'Sanity']
 }
 ```
