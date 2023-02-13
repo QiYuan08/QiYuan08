@@ -14,10 +14,10 @@ class Bio extends SoftwareDeveloper {
 class Skills extends SoftwareDeveloper {
   languages  = ['JavaScript', 'PHP', 'Python', 'Java', 'C', 'HTML && CSS'];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Node.js', 'Express.js', 'Firebase'];
+  frameworks = ['Node.js', 'Express.js', 'Firebase', 'React Basic'];
 }
 
 class ToLearn extends Skills {
-  frameworks = ['React', 'Sanity']
+  frameworks = ['css', 'Sanity']
 }
 ```
