@@ -12,12 +12,12 @@ class Bio extends SoftwareDeveloper {
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP', 'Python', 'Java', 'C', 'HTML && CSS'];
-  databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Node.js', 'Express.js', 'Firebase', 'React Basic'];
+  languages  = ['Typescript', 'JavaScript', 'PHP', 'Python', 'Java', 'C', 'HTML && CSS' , 'PHP'];
+  databases  = ['OracleSQL', 'Postgresql'];
+  frameworks = ['Node.js', 'Express.js', 'Java Spring Boot', 'Laravel', 'ReactJS', 'React-Native', 'Inertia',];
 }
 
 class ToLearn extends Skills {
-  frameworks = ['css', 'Sanity']
+  frameworks = ['Advanced Spring Boot', 'Sanity']
 }
 ```
